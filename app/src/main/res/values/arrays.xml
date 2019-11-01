@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="products">
+        <item>{\"desc\":\"蛋黄果新鲜包邮海南鸡蛋果2斤三亚特产应季稀有水果当季整箱5摘10\",\"price\":29.8, \"quantity\":525}</item>
+        <item>{\"desc\":\"双面玻璃华为nova5pro手机壳nova5女潮牌NOVA5i磁吸翻盖nova男款全包防摔\",\"price\":44.8,\"quantity\":2087}</item>
+        <item>{\"desc\":\"切尔西短靴女英伦风粗跟及踝靴2019年秋季新款百搭漆皮中跟马丁靴\",\"price\":32.9,\"quantity\":530}</item>
+        <item>{\"desc\":\"记忆棉学生坐垫 秋冬季学校椅凳加厚棉垫教室宿舍椅垫防滑屁股垫\",\"price\":10.86,\"quantity\":693}</item>
+        <item>{\"desc\":\"棉打底衫宠物衣服小狗狗衣服小型犬泰迪法斗牛博美比熊猫咪秋冬装\",\"price\":15.8,\"quantity\":5262}</item>
+        <item>{\"desc\":\"5本45元我是猫（日）夏目簌石著 对鲁迅影响力极大的小说 外国文学日本文学小说世界\",\"price\":11.8,\"quantity\":881}</item>
+        <item>{\"desc\":\"白色t恤女长袖宽松2019秋装新款韩版ins秋衣女外传内搭打底衫上衣\",\"price\":17.9,\"quantity\":259}</item>
+        <item>{\"desc\":\"家具贴厨房防油贴柜灶台大理石纹防水加厚自粘耐高温翻新台面贴纸\",\"price\":9.9,\"quantity\":112}</item>
+        <item>{\"desc\":\"老鬼鱼竿海竿特价清仓海竿套装超轻超硬矶竿抛竿远投竿海竿全套装\", \"price\":23, \"quantity\":1601}</item>
+        <item>{\"desc\":\"三合一办公室靠垫沙发护腰靠枕可爱抱枕被子毯床头大靠背椅子腰枕\", \"price\":29.9,\"quantity\":1564}</item>
+        <item>{\"desc\":\"小清新长柄雨伞日系森系女复古男s大号双刃简约定制LOGO广告超大\", \"price\":29.9,\"quantity\":410}</item>
+        <item>{\"desc\":\"微瑕疵日韩复古咖啡杯水杯陶瓷马克杯早餐牛奶杯家用办公室茶杯子\", \"price\":5.8,\"quantity\":15486}</item>
+        <item>{\"desc\":\"79羊毛+6山羊绒！ 外贸男装工厂剪标尾货上午休闲翻领针织衫毛衣男\",\"price\":59,\"quantity\":2234}</item>
+        <item>{\"desc\":\"温馨清新北欧ins客厅卧室房间布置墙面装饰墙贴墙纸壁纸自粘贴画\", \"price\":9.99,\"quantity\":1635}</item>
+        <item>{\"desc\":\"韩式地垫门垫进门入户门家用脚垫进户门口垫子玄关客厅卧室地毯垫\", \"price\":27,\"quantity\":5868}</item>
+        <item>{\"desc\":\"布艺帽子女韩版夏天遮阳防晒沙滩帽彩色条纹可折叠便携渔夫帽盆帽\", \"price\":11.5,\"quantity\":31}</item>
+        <item>{\"desc\":\"镜子贴墙全身镜穿衣镜女宿舍学生壁挂粘贴无框自粘家用卧室试衣镜\", \"price\":8.8,\"quantity\":20610}</item>
+        <item>{\"desc\":\"香水百合花盆栽室内花室外百合种球种子大球花卉四季开花植物好养\", \"price\":5.8,\"quantity\":22807}</item>
+        <item>{\"desc\":\"养生杯迷你宿舍办公室电杯小电炖杯煮粥杯牛奶加热陶瓷小型便携式\", \"price\":39.91,\"quantity\":7872}</item>
+        <item>{\"desc\":\"百搭小白鞋女秋鞋2019秋冬新款女鞋学生休闲平底白鞋潮板鞋皮加绒\",\"price\":25.8,\"quantity\":3394}</item>
+        <item>{\"desc\":\"鞋架子多层简易家用门口省空间宿舍防尘经济型置物架实木鞋柜收纳\", \"price\":25, \"quantity\":365}</item>
+        <item>{\"desc\":\"奥特曼玩具正版儿童套装初代赛罗超人多关节可动人偶怪兽蛋男孩\", \"price\":39.9, \"quantity\":64}</item>
+        <item>{\"desc\":\"挂钟客厅卧室现代简约个性穿衣时尚纯色时钟静音石英钟表挂表家用\", \"price\":29.9, \"quantity\":187}</item>
+        <item>{\"desc\":\"传统农家特产心太软糯米红枣夹心零食点心红枣糯米糕手工打造400g\", \"price\":23.66, \"quantity\":790}</item>
+    </string-array>
+    <string-array name="images">
+        <item>@drawable/img001</item>
+        <item>@drawable/img002</item>
+        <item>@drawable/img003</item>
+        <item>@drawable/img004</item>
+        <item>@drawable/img005</item>
+        <item>@drawable/img006</item>
+        <item>@drawable/img007</item>
+        <item>@drawable/img008</item>
+        <item>@drawable/img009</item>
+        <item>@drawable/img010</item>
+        <item>@drawable/img011</item>
+        <item>@drawable/img012</item>
+        <item>@drawable/img013</item>
+        <item>@drawable/img014</item>
+        <item>@drawable/img015</item>
+        <item>@drawable/img016</item>
+        <item>@drawable/img017</item>
+        <item>@drawable/img018</item>
+        <item>@drawable/img019</item>
+        <item>@drawable/img020</item>
+        <item>@drawable/img021</item>
+        <item>@drawable/img022</item>
+        <item>@drawable/img023</item>
+        <item>@drawable/img024</item>
+    </string-array>
+</resources>
+
